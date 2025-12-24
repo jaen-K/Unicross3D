@@ -7,5 +7,8 @@ UniCross3D generates **multi-view RGB images and normal maps** from a single inp
  
 > The training and inference source codes will be released in the coming months.
 
+## Method Overview
 ![Overview](assets/overview.png)
+
+## Teaset
 ![Teaser](assets/teaser.png)
