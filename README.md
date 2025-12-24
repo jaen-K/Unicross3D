@@ -17,7 +17,7 @@ During training, we optimize the diffusion objective jointly with:
 ## Teaser
 ![Teaser](assets/teaser.png)
  UniCross3D produces:
-- more consistent novel views (less geometry drift / texture distortion),
+- more consistent novel views (less "geometry drift / texture distortion"),
 - better color–normal alignment (less “texture interpreted as geometry”),
 - higher-fidelity reconstructed meshes, especially under challenging textures or non-canonical input viewpoints.
 
