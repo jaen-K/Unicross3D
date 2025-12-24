@@ -10,5 +10,5 @@ UniCross3D generates **multi-view RGB images and normal maps** from a single inp
 ## Method Overview
 ![Overview](assets/overview.png)
 
-## Teaset
+## Teaser
 ![Teaser](assets/teaser.png)
